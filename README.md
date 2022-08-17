@@ -1,4 +1,4 @@
-# Pong-Macroquad
+# pong_macroquad
 
 A Pong game written in Rust using the Macroquad library.
 
